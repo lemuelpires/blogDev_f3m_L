@@ -67,6 +67,7 @@ const register = () => {
             </label>
 
             <button className="btn"></button>
+            {error && <p className='error'>{error}</p>}
         </form>
     </div>
   )

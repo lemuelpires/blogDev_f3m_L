@@ -4,8 +4,8 @@ import Home from './pages/Home/Home'
 import About from './pages/About/About'
 import NavBar from './components/NavBar'
 import Footer from './components/Footer'
-import Register from './pages/Register/register'
-import Login from './pages/Login/login'
+import Register from './pages/Register/Register'
+import Login from './pages/Login/Login'
 
 function App() {
   return (
