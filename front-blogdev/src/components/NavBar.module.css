@@ -1,7 +1,7 @@
 .navbar{
     display:flex;
     box-shadow:rgba(0,0,0,.15) 0px -2px 10 0px;
-    Justify-content:space-betwenn;
+    Justify-content:space-between;
     align-items: center;
     padding:.5em 2em;
 }
@@ -27,4 +27,8 @@
 .active{
     background-color: #000;
     color:#fff;
+}
+
+.logoutBtn {
+    background-color: #f4f4f4;
 }
